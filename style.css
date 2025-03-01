@@ -302,49 +302,49 @@ nav {
 }
 
 .imgs .img1 {
-    background-image: url("/imgs/p1.webp");
+    background-image: url("p1.webp");
     background-size: cover;
 
 }
 
 .imgs .img2 {
-    background-image: url("/imgs/p2.webp");
+    background-image: url("p2.webp");
     background-size: cover;
 
 }
 
 .imgs .img3 {
-    background-image: url("/imgs/p3.webp");
+    background-image: url("p3.webp");
     background-size: cover;
 
 }
 
 .imgs .img4 {
-    background-image: url("/imgs/p4.webp");
+    background-image: url("p4.webp");
     background-size: cover;
 
 }
 
 .imgs .img5 {
-    background-image: url("/imgs/p5.webp");
+    background-image: url("p5.webp");
     background-size: cover;
 
 }
 
 .imgs .img6 {
-    background-image: url("/imgs/p6.webp");
+    background-image: url("p6.webp");
     background-size: cover;
 
 }
 
 .imgs .img7 {
-    background-image: url("/imgs/p7.webp");
+    background-image: url("p7.webp");
     background-size: cover;
 
 }
 
 .imgs .img8 {
-    background-image: url("/imgs/p8.webp");
+    background-image: url("p8.webp");
     background-size: cover;
 
 }
